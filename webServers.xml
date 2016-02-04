@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f82e94ef-15d9-437e-984d-92f1ae70e1d5" name="SIAA-DEMO" url="http://172.16.11.43">
-        <fileTransfer host="172.16.11.43" port="21" username="2014030352_sis">
+        <fileTransfer host="172.16.11.43" port="21" password="df98df9adf9bdf9edf9adf99df9adf99df9fdf98" username="2014030352_sis">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
